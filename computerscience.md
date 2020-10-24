@@ -30,20 +30,20 @@ formal methods, software engineering, algorithm design, computer programming, re
 | Yes (HTDP) 		| 		| How To Design Programs by Felleisen, Findler, Flatt and Krishnamurthi |
 | Yes (SICP or The Wizard) | 0-262-01153-0 | [Structure and Interpretation of Computer Programs by Abelson, Sussman](https://b-ok.cc/book/632929/edf7f7) |
 | Yes (Gang of Four) 	| 0-201-63498-8 | [Design Patterns, Elements of Reusable Object Oriented Software by Gamma, Helm, Johnson, Vlissides](https://b-ok.cc/book/652262/6e5093) |
-| Yes (AMOP)		|		| The Art of the Meta Object Protocol by Kiczales |
 | Yes (CTM)		|		| Concepts, Techniques, and Models of Computer Programming by Roy and Haridi |
-| Yes (OOSC)		|		| Object Oriented Software Construction by Meyer |
-| Yes (WELC) 		| 		| Working Effectively with Legacy Code by Michael Feathers |
-| Yes (LL) 		| 		| Lessons Learned in Software Testing by Kaner, Bach and Pettichord |
-| Yes (TCS) 		| 		| Testing Computer Software by Kaner, Falk, and Nguyen |
 | 			| 0-201-61586-X | [The Practice of Programming by Kernighan, Pike](https://b-ok.cc/book/735475/780085) |
 | 			| 0-070-34207-5 | [The Elements of Programming style by Keringhan, Plauger](https://b-ok.cc/book/2604598/7c59f5) |
 | 			| 0-321-63537-X | [Elements Of Programming by Stepanov, McJones](https://b-ok.cc/book/5946175/f913a7) |
 | 			| 0-7356-1967-0	| Code Complete by McConnell |
 | 			|  		| Clean Code by Martin |
 | 			|  		| Concise Guide to Software Engineering by Regan |
-| 			|  		| Secrets of Reverse Engineering be Eilam |
 | 			|  		| Patterns of Enterprise Application Architecture by Fowler |
+| Yes (OOSC)		|		| Object Oriented Software Construction by Meyer |
+| Yes (WELC) 		| 		| Working Effectively with Legacy Code by Michael Feathers |
+| Yes (AMOP)		|		| The Art of the Meta Object Protocol by Kiczales |
+| Yes (LL) 		| 		| Lessons Learned in Software Testing by Kaner, Bach and Pettichord |
+| Yes (TCS) 		| 		| Testing Computer Software by Kaner, Falk, and Nguyen |
+| 			|  		| Secrets of Reverse Engineering be Eilam |
 | 			|  		| Refactoring - Improving the Design of Existing by Fowler |
 | 			|  		| Object Oriented Analysis Design and Implementation by Dathan, Ramnath |
 
@@ -54,6 +54,7 @@ formal methods, software engineering, algorithm design, computer programming, re
 | 			| 1-617-29581-7 | [Modern C by Gustedt](https://b-ok.cc/book/5395727/fcae17) |
 | 			| 0-393-97950-4 | [C Programming A Modern Approach by King](https://b-ok.cc/book/687057/404071) |
 | 			| 0-131-77429-8 | [Experc C Programming, Deep C Secrets by Linden](https://b-ok.cc/book/491852/8deefd) |
+| Yes			|		| Effective C ???
 | 			| 0-201-31663-3 | [Algorithms in C, Parts 1-4 Fundamentals, Data Structures, Sorting, Searching by Sedgewick](https://b-ok.cc/book/2863703/bacd99) |
 | 			| 0-201-31663-3 | [Algorithms in C, Part 5: Graph Algorithms by Sedgewick](https://b-ok.cc/book/2863700/e90768) |
 
@@ -86,29 +87,39 @@ formal methods, software engineering, algorithm design, computer programming, re
 compiler theory, programming language pragmatics, programming language theory, formal semantics, type theory
 | Cult classic 		| ISBN 		| Name and authors |
 | --- 			| --- 		| --- |
-| Yes (Dragon book) 	| 0-321-48681-1 | Compilers Principles, Techniques, & Tools by Aho, Lam, Sethi, Ullman |
+| Yes (Dragons book) 	| 0-321-48681-1 | Compilers Principles, Techniques, & Tools by Aho, Lam, Sethi, Ullman |
 | Yes (Tiger book)	|		| Modern Compiler Implementation in ML/C/Java |
 | Yes (TAPLP)		| 0-262-16209-1	| [Types and Programming Languages by Pierce](https://b-ok.cc/book/655939/ecbfc7) |
-| Yes (ATTAPL)		|		|  Advanced Topics in Types and Programming Languages by Pierce |
+| Yes (ATTAPL)		|		| Advanced Topics in Types and Programming Languages by Pierce |
 | Yes			| 0-262-23169-7	| [The Formal Semantics of Programming Languages by Winskel](https://b-ok.cc/book/1269842/b8d924) |
 | Yes 			| 978-1-55860-496-4| Linkers And Loaders by John R  Levine |
 | Yes (EOPL) 		|		| Essentials of Programming Languages by Friedman, Wand, Haynes |
 | Yes (PLP2e) 		|		| Programming Language Pragmatics Second Edition by Michael L. Scott |
+|			|		| Advanced Compiler Design and Implementation by Muchnick |
+|			|		| Advanced Design and Implementation of Virtual Machines by Xiao-Feng Li |
+|			|		| A Retargetable C Compiler: Design and Implementation by Christopher W. Fraser David R. Hanson |
+|			|		| Instruction Level Parallelism by Aiken, Banerjee, Kejariwal, Nicolau |
+|			|		| Design Concepts in Programming Languages Turbak, Gifford |
+|			|		| The Garbage Collection Handbook: The Art of Automatic Memory Management by Jones, Hosking, Moss |
+|			|		| The Implementation of Functional Programming Languages by Asperti, Guerrini |
+|			|		| Crafting Interpreters by Attridge, Derek, Staten, Henry | 
+|			|		| Programming Language Pragmatics by Scott |
 | 			|  		| Lex & Yacc by John R  Levine, Tony Manson, Doug Brown |
 | 			|  		| Jack Crenshaw - Let's Build a Compiler |
 | 			|  		| The Formal Semantics of Programming Languages |
+|			|		| http://aalhour.com/awesome-compilers/#books |
 
 # 6. Algorithms and Data structures
 | Cult classic 		| ISBN 		| Name and authors  |
 | --- 			| --- 		| --- |
+| Yes (CLRS) 		| 0-262-53305-7	| [Introduction to algorithms by Cormen, Leiserson, Rivest, Stein](https://b-ok.cc/book/986690/1e31b0) |
+| Yes 			|  		| Cracking the Coding Interview, 6th Edition 189 Programming Questions and Solutions |
 | Yes (TAOCP) 		|  		| The Art of Computer Programming Vol I by Knuth |
 | Yes (TAOCP) 		|  		| The Art of Computer Programming Vol II by Knuth |
 | Yes (TAOCP) 		|  		| The Art of Computer Programming Vol III by Knuth |
 | Yes (TAOCP) 		|  		| The Art of Computer Programming Vol IV-A by Knuth |
-| Yes (CLRS) 		| 0-262-53305-7	| [Introduction to algorithms by Cormen, Leiserson, Rivest, Stein](https://b-ok.cc/book/986690/1e31b0) |
-| Yes 			|  		| Cracking the Coding Interview, 6th Edition 189 Programming Questions and Solutions |
-| Yes 			|  		| Programming Pearls (2nd Edition) by Jon Bentley (z-lib org) |
 |			| 978-0-321-57351-3 | "Algorithms, Fourth Edition" - Robert Sedgewick, Kevin Wayne |
+| Yes 			|  		| Programming Pearls (2nd Edition) by Jon Bentley (z-lib org) |
 | 			|  		| More Programming Pearls Confessions of a Coder by Jon Louis Bentley (z-lib org) |
 | 			|  		| Guide to Competitive Programming-AnttiLaaksonen |
 | 			|  		| Matters Computational |
@@ -182,7 +193,7 @@ computer graphics, image processing
 | --- 			| --- 		| --- |
 | Yes (Nand 2 Tetris)	| 		| The Elements of Computing Systems: Building a Modern Computer from First Principles |
 | Yes 			| n/a 		| Intel® 64 and IA-32 Architectures Software Developer’s Manual Combined Volumes: 1, 2A, 2B, 2C, 2D, 3A, 3B, 3C, 3D and 4 |
-| 			|  		| Computer System EN |
+| Yes			|		| Computer Systems: A Programmer’s Perspective |
 | 			|  		| What Every Programmer Should Know About Memory - Ulrich Dreppero |
 | 			|  		| A Primer on Memory Consistency and Cache Coherence |
 | 			|  		| Randall Hyde - The Art of Assembly Language, 2nd Edition |
