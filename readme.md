@@ -162,16 +162,17 @@ automata theory, computability theory, computational complexity theory
 computer graphics, image processing
 | Cult classic 		| ISBN 		| Name and authors |
 | --- 			| --- 		| --- |
-| Yes (The read book) 	|  		| ??? |
+| Yes (The Black book)	|		| Michael Abrash's Graphics Programming Black Book | 
 |  			| 978-013446454	| Vulkan Programming Guide |
 |			|		| https://www.realtimerendering.com/ (TODO: lookup what books are recommended there) |
 
 # 11. Operating systems
 | Cult classic 		| ISBN 		| Name and authors  |
 | --- 			| --- 		| --- |
-| Yes (The dinosaur)	| 		| Operating System Concepts by Silberschatz, Gagne, Galvin |
-| Yes (Deamon book)	| 		| The Design and Implementation of the 4.4 BSD Operating System |
+| Yes (The Dinosaurs book)| 		| Operating System Concepts by Silberschatz, Gagne, Galvin |
+| Yes (The Deamon book)	| 		| The Design and Implementation of the 4.4 BSD Operating System |
 | Yes (APUE)		|  		| Advanced Programming in the UNIX Environment 3rd Edition 0321637739 |
+| Yes (TLPI)		|		| The linux programming interface |
 | Yes 			|  		| Lions - A Commentary on the Sixth Edition UNIX Operating System |
 | Yes 			|  		| The Unix Programming Environment by Brian W  Kernighan, Rob Pike (z-lib org) |
 | Yes 			|  		| xv6 a simple, Unix-like teaching operating system |
@@ -186,7 +187,6 @@ computer graphics, image processing
 | 			|  		| The UNIX-HATERS Handbook |
 | 			|  		| the-unix-programming-environment-kernighan-pike |
 | 			|  		| Understanding Linux Kernel |
-| 			|  		| the-linux-programming-interface |
 
 # 12. Computer architecture
 | Cult classic 		| ISBN 		| Name and authors |
