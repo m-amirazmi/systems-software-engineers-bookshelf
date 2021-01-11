@@ -87,8 +87,8 @@ formal methods, software engineering, algorithm design, computer programming, re
 compiler theory, programming language pragmatics, programming language theory, formal semantics, type theory
 | Cult classic 		| ISBN 		| Name and authors |
 | --- 			| --- 		| --- |
-| Yes (Dragons book) 	| 0-321-48681-1 | Compilers Principles, Techniques, & Tools by Aho, Lam, Sethi, Ullman |
-| Yes (Tiger book)	|		| Modern Compiler Implementation in ML/C/Java |
+| Yes (Dragons book) 	| 0-201-10088-6 | Compilers Principles, Techniques, & Tools by Aho, Lam, Sethi, Ullman |
+| Yes (Tiger book)	| 0-521-58390-X | Modern Compiler Implementation in ML/C/Java |
 | Yes (TAPLP)		| 0-262-16209-1	| [Types and Programming Languages by Pierce](https://b-ok.cc/book/655939/ecbfc7) |
 | Yes (ATTAPL)		|		| Advanced Topics in Types and Programming Languages by Pierce |
 | Yes			| 0-262-23169-7	| [The Formal Semantics of Programming Languages by Winskel](https://b-ok.cc/book/1269842/b8d924) |
