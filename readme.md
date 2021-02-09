@@ -133,6 +133,7 @@ coding theory, game theory, discrete mathematics, graph theory, mathematical log
 | Cult classic 		| ISBN 		| Name and authors  |
 | --- 			| --- 		| --- |
 | Yes 			| 9-897-96959-4	| [Concrete Mathematics by Graham, Knuth](https://b-ok.cc/book/710659/c956e8) |
+| Yes			| -		| [Mathematics for Computer Science](https://b-ok.cc/book/1290760/9822fd) |
 | Yes 			| 0-521-89885-4	| [Lambda-Calculus and Combinators by Hindley, Seldin](https://b-ok.cc/book/539538/30bbfc) |
 | Yes			| 0-521-89885-4	| [Introduction to Category Theory by Hindley, Seldin](https://b-ok.cc/book/539538/30bbfc) |
 | Yes			|  		| Conceptual Mathematics: A first introduction to categories by Lawvere, Schanuel |
